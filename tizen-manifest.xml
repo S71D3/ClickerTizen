@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="org.example.clicker" version="1.0.0">
+    <author>S71D3</author>
+    <profile name="wearable"/>
+    <ui-application appid="org.example.clicker" exec="clicker" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>Clicker</label>
+        <icon>MainIcon.png</icon>
+    </ui-application>
+</manifest>

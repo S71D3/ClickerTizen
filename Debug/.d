@@ -1,0 +1,1 @@
+res/edje/clicker.edj:

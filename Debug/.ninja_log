@@ -1,0 +1,8 @@
+# ninja log v5
+808	1269	0	clicker	fca51d04c9a48e0c
+1	713	0	res/edje/clicker.edj	51e4bd1f74c99da6
+7	807	0	src/clicker.o	15de7756a045133b
+8	839	0	src/clicker.o	15de7756a045133b
+839	1350	0	clicker	fca51d04c9a48e0c
+9	776	0	src/clicker.o	15de7756a045133b
+776	1326	0	clicker	fca51d04c9a48e0c
